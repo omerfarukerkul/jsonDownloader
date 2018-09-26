@@ -1,0 +1,52 @@
+<databases>
+	<database name="sakila">
+		<tables>
+			<table name="cars">
+				<car>
+					<audi>
+					</audi>
+				</car>
+			</table>
+			<table name="computers">
+				<computer>
+					<processor>
+					</processor>
+					<display-card>
+					</display-card>
+					<ram>
+					</ram>
+				</computer>
+			</table>
+		</tables>
+	</database>
+	<database name="world">
+		<tables>
+			<table name="cars">
+				<car>
+					<audi>
+					</audi>
+				</car>
+			</table>
+			<table name="computers">
+				<computer>
+					<processor>
+					</processor>
+					<display-card>
+					</display-card>
+					<ram>
+					</ram>
+				</computer>
+			</table>
+			<table name="animals">
+				<animal>
+					<cats>
+					</cats>
+					<dogs>
+					</dogs>
+					<elephants>
+					</elephants>
+				</animal>
+			</table>
+		</tables>
+	</database>
+</databases>
